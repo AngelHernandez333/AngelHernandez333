@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a Master's student in Robotics at CINVESTAV, Skilled in Python programming with a strong focus on Artificial Intelligence. My primary focus lies in the fields of **AI** and **computer vision**.
 
 ## About Me
-
+- 🔭 **Currently Working On**: My Master's thesis on real-time event detection using multimodal AI systems
 - 🌱 **Currently Learning**: I'm currently diving into **Natural Language Processing (NLP)** with **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**.
 
 ## My Projects
