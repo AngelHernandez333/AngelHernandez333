@@ -1,11 +1,10 @@
-# Hello, I'm Angel Hernandez! 👋
+# Hello, I'm Angel Hernandez!
 
-Welcome to my GitHub profile! I am a Master's student in Robotics and Advanced Manufacturing at CINVESTAV, passionate about technology and always eager to learn and collaborate on exciting projects. My primary focus lies in the fields of **computer vision**, **machine learning**, and **artificial intelligence**.
+Welcome to my GitHub profile! I am a Master's student in Robotics at CINVESTAV, Skilled in Python programming with a strong focus on Artificial Intelligence. My primary focus lies in the fields of **AI** and **computer vision**.
 
 ## About Me
 
-- 👀 **Interests**: I'm interested in **computer vision**, **machine learning**, and **artificial intelligence**.
-- 🌱 **Currently Learning**: I'm currently diving into **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **AI agents**.
+- 🌱 **Currently Learning**: I'm currently diving into **Natural Language Processing (NLP)** with **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**.
 
 ## My Projects
 
@@ -13,15 +12,13 @@ Welcome to my GitHub profile! I am a Master's student in Robotics and Advanced M
 
 📌 **This project is part of my Master's thesis and is currently a work in progress.**
 
-This project seeks to develop a multi-frame-per-second convolutional neural network (CNN) architecture for a multi-class detector capable of running efficiently on 'edge' processing platforms for real-time video analysis, to detect events. It also implements a fact-checking mechanism based on Multimodal Large Language Models (MLLMs), which analyze in detail the 'evidence' provided by the detector and decide whether it is a false positive or a real event.
-
-🔗 **Project Link**: [Real-time Event Detection using CNNs and MLLMs](https://github.com/AngelHernandez333/Real-time-event-detection-using-CNNs-and-MLLMs)
+This project seeks to develop a conjunt architecture of MLLMs and multiclass detectors for video anomaly detection applications, to run in commercial GPUs in real time.
 
 ## Skills
 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python
 - **Tools & Technologies**: OpenCV, Hugging Face Transformers, PyTorch
-- **Other Skills**: Data Analysis (Pandas, NumPy)
+- **Other Skills**: Data Analysis (Pandas, NumPy), Git
 
 
 ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat.
